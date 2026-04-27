@@ -4,5 +4,5 @@ app for 2012 furbies and furby booms, this app is compatible with both and has b
 it is recommended to have your volume at ATLEAST 50-60% for your furby to hear the signals
 
 # screenshots
-<img src="screenshots/download (1)" width="300"> <img src="screenshots/download (2)" width="300"> <img src="screenshots/download (3)" width="300">
-<img src="screenshots/download (4)" width="300">
+<img src="screenshots/download (1).png" width="300"> <img src="screenshots/download (2).png" width="300"> <img src="screenshots/download (3).png" width="300">
+<img src="screenshots/download (4).png" width="300">
