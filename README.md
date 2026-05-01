@@ -1,10 +1,10 @@
 # Furby-KABOOM
 app for 2012 furbies, furby booms and Furbacca. this app is compatible with all furbies that use com-air (EXCEPT FOR THE PARTY ROCKERS.) and has been tested with all personalities (in the 2012 furbies and furby booms) and with five different furbies. i removed the party rockers from here because appearently, something in the app broke the party rockers.
 
-# [MAJOR UPDATE!!]
-added more things, like styles, a furby selector, fixed a few bugs, and added transitions!
-
 [click here to try it!](https://pagonis76.github.io/Furby-KABOOM/)
+
+# updates:
+update one (MAJOR UPDATE): added more things, like styles, a furby selector, fixed a few bugs, and added transitions!
 
 # IMPORTANT!
 it is recommended TO USE A COMPUTER!
