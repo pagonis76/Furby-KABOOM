@@ -7,6 +7,7 @@ Bringin' Furby Back To Life!
 
 # updates:
 update one (MAJOR UPDATE): added more things, like styles, a furby selector, fixed a few bugs, and added transitions!
+update two: refining a few things, updating signals, fixed more bugs, and adding easter eggs (try to trigger them! they trigger by chance!)
 
 # IMPORTANT!
 it is recommended TO USE A COMPUTER!
