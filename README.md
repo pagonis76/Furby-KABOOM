@@ -10,6 +10,8 @@ update one (MAJOR UPDATE): added more things, like styles, a furby selector, fix
 
 update two: refining a few things, updating signals, fixed more bugs, and adding easter eggs (try to trigger them! they trigger by chance!)
 
+update three: added holiday based intros and cleaned up the project's size
+
 # IMPORTANT!
 it is recommended TO USE A COMPUTER!
 it is recommended to have your volume at ATLEAST 50-60% for your furby or furbies to hear the signals!
