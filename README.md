@@ -12,6 +12,8 @@ update two: refining a few things, updating signals, fixed more bugs, and adding
 
 update three: added holiday based intros and cleaned up the project's size
 
+update four ("the cool and awesome update"): added more things like Minigames, Furbflix (a spin off of Netflix), added a new action, and made more pages in the actions screen
+
 # IMPORTANT!
 it is recommended TO USE A COMPUTER!
 it is recommended to have your volume at ATLEAST 50-60% for your furby or furbies to hear the signals!
