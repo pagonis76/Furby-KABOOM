@@ -16,6 +16,8 @@ update four ("the cool and awesome update"): added more things like Minigames, F
 
 update five: fixed more bugs, added boom-exclusive (eggsclusive) actions, and added a new minigame!
 
+Update six, literally the most small update: added one new mingame, and added one new action
+
 # IMPORTANT!
 it is recommended TO USE A COMPUTER!
 it is recommended to have your volume at ATLEAST 50-60% for your furby or furbies to hear the signals!
