@@ -1,5 +1,5 @@
 # Furby-KABOOM
-app for 2012 furbies, furby booms and Furbacca. this app is compatible with all furbies that use com-air (EXCEPT FOR THE PARTY ROCKERS.) and has been tested with all personalities (in the 2012 furbies and furby booms) and with five different furbies. i removed the party rockers from here because appearently, something in the app broke the party rockers.
+app for 2012 furbies, furby booms and Furbacca. this app is compatible with all furbies that use com-air (EXCEPT FOR THE PARTY ROCKERS.) and has been tested with all personalities (in the 2012 furbies and furby booms) and with five different furbies. i removed the party rockers from here because appearently, something in the app broke the party rockers. this app is pretty much the furby connect world of 2012-2015 furbies
 
 Bringin' Furby Back To Life!
 
