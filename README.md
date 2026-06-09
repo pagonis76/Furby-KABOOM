@@ -18,12 +18,11 @@ update five: fixed more bugs, added boom-exclusive (eggsclusive) actions, and ad
 
 Update six, literally the most small update: added one new mingame, and added one new action
 
+update seven (another small fix): fixed a visual glitch
+
 # IMPORTANT!
 it is recommended TO USE A COMPUTER!
 it is recommended to have your volume at ATLEAST 50-60% for your furby or furbies to hear the signals!
-
-# how to open the .pmp (raw file)?
-use [Penguin mod](https://penguinmod.com/) to open the raw file, there, you can edit it all you want, maybe add new things :D
 
 # screenshots
 <img src="screenshots/download (1).png" width="300"> <img src="screenshots/download (2).png" width="300"> <img src="screenshots/download (3).png" width="300">
