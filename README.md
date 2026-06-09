@@ -27,3 +27,5 @@ it is recommended to have your volume at ATLEAST 50-60% for your furby or furbie
 # screenshots
 <img src="screenshots/download (1).png" width="300"> <img src="screenshots/download (2).png" width="300"> <img src="screenshots/download (3).png" width="300">
 <img src="screenshots/download (4).png" width="300">
+
+## note: the app may unfortunately be moved to another website or stop getting updates soon due to it's massive html size
